@@ -1,0 +1,10 @@
+G:\1\MillisecondsSince19700101\MillisecondsSince19700101\bin\Debug\MillisecondsSince19700101.exe
+G:\1\MillisecondsSince19700101\MillisecondsSince19700101\bin\Debug\MillisecondsSince19700101.pdb
+G:\1\MillisecondsSince19700101\MillisecondsSince19700101\obj\x86\Debug\MillisecondsSince19700101.csprojResolveAssemblyReference.cache
+G:\1\MillisecondsSince19700101\MillisecondsSince19700101\obj\x86\Debug\MillisecondsSince19700101.exe
+G:\1\MillisecondsSince19700101\MillisecondsSince19700101\obj\x86\Debug\MillisecondsSince19700101.pdb
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101\obj\x86\Debug\MillisecondsSince19700101.exe
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101\obj\x86\Debug\MillisecondsSince19700101.pdb
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101\bin\Debug\MillisecondsSince19700101.exe
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101\bin\Debug\MillisecondsSince19700101.pdb
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101\obj\x86\Debug\MillisecondsSince19700101.csprojResolveAssemblyReference.cache

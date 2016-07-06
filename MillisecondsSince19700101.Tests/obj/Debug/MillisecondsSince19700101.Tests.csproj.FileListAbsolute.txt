@@ -1,0 +1,7 @@
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101.Tests\bin\Debug\MillisecondsSince19700101.Tests.dll
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101.Tests\bin\Debug\MillisecondsSince19700101.Tests.pdb
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101.Tests\bin\Debug\MillisecondsSince19700101.exe
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101.Tests\bin\Debug\MillisecondsSince19700101.pdb
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101.Tests\obj\Debug\MillisecondsSince19700101.Tests.csprojResolveAssemblyReference.cache
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101.Tests\obj\Debug\MillisecondsSince19700101.Tests.dll
+H:\1\MillisecondsSince19700101\MillisecondsSince19700101.Tests\obj\Debug\MillisecondsSince19700101.Tests.pdb

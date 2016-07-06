@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1ddba9c4-5bcb-4091-b009-63783f1f4d25" name="1@1-ПК 2016-07-06 19:57:57" runUser="1-ПК\1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="a764ea95-5a86-49ab-bcd5-e584669fd5f6">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="1_1-ПК 2016-07-06 19_57_57">
+      <DeploymentItem filename="H:\1\MillisecondsSince19700101\MillisecondsSince19700101\bin\Debug\MillisecondsSince19700101.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-07-06T19:57:57.9042368+06:00" queuing="2016-07-06T19:58:28.5799913+06:00" start="2016-07-06T19:58:29.0170163+06:00" finish="2016-07-06T19:58:30.7341145+06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMillisecondsSince19700101" storage="h:\1\millisecondssince19700101\millisecondssince19700101.tests\bin\debug\millisecondssince19700101.tests.dll" id="b384da28-1c7a-5652-4880-88123fb0b193">
+      <Execution id="f6569c13-2884-4edb-8610-2792ac7b7510" />
+      <TestMethod codeBase="H:/1/MillisecondsSince19700101/MillisecondsSince19700101.Tests/bin/Debug/MillisecondsSince19700101.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MillisecondsSince19700101.Tests.UnitTest1, MillisecondsSince19700101.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMillisecondsSince19700101" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b384da28-1c7a-5652-4880-88123fb0b193" executionId="f6569c13-2884-4edb-8610-2792ac7b7510" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f6569c13-2884-4edb-8610-2792ac7b7510" testId="b384da28-1c7a-5652-4880-88123fb0b193" testName="TestMillisecondsSince19700101" computerName="1-ПК" duration="00:00:00.0632468" startTime="2016-07-06T19:58:29.4640419+06:00" endTime="2016-07-06T19:58:30.3460923+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f6569c13-2884-4edb-8610-2792ac7b7510">
+    </UnitTestResult>
+  </Results>
+</TestRun>
